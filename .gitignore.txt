@@ -1,0 +1,9 @@
+# .gitignore для Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.vcxproj.user
+*.build.cs
+*.pidb
+.vs/
